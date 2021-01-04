@@ -1,7 +1,7 @@
 /**
  * Tester class for LOTR project
  * @author Javier Garcia
- *CSC15
+ *
  */
 /**
  * 
