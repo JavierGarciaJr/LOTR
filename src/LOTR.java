@@ -1,5 +1,5 @@
 /**
- * Tester class for project #8
+ * Tester class for LOTR project
  * @author Javier Garcia
  *CSC15
  */
